@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-glassmorphism-gaming/static/css/main.a3a0dfd9.chunk.css",
+    "main.js": "/react-glassmorphism-gaming/static/js/main.aca2b79e.chunk.js",
+    "main.js.map": "/react-glassmorphism-gaming/static/js/main.aca2b79e.chunk.js.map",
+    "runtime-main.js": "/react-glassmorphism-gaming/static/js/runtime-main.6d578c0f.js",
+    "runtime-main.js.map": "/react-glassmorphism-gaming/static/js/runtime-main.6d578c0f.js.map",
+    "static/js/2.884d3875.chunk.js": "/react-glassmorphism-gaming/static/js/2.884d3875.chunk.js",
+    "static/js/2.884d3875.chunk.js.map": "/react-glassmorphism-gaming/static/js/2.884d3875.chunk.js.map",
+    "index.html": "/react-glassmorphism-gaming/index.html",
+    "static/css/main.a3a0dfd9.chunk.css.map": "/react-glassmorphism-gaming/static/css/main.a3a0dfd9.chunk.css.map",
+    "static/js/2.884d3875.chunk.js.LICENSE.txt": "/react-glassmorphism-gaming/static/js/2.884d3875.chunk.js.LICENSE.txt",
+    "static/media/assassins.1c63199f.jpg": "/react-glassmorphism-gaming/static/media/assassins.1c63199f.jpg",
+    "static/media/avatarImage.d37df039.jpeg": "/react-glassmorphism-gaming/static/media/avatarImage.d37df039.jpeg",
+    "static/media/batman.9af675b0.jpeg": "/react-glassmorphism-gaming/static/media/batman.9af675b0.jpeg",
+    "static/media/controller.b1262eeb.png": "/react-glassmorphism-gaming/static/media/controller.b1262eeb.png",
+    "static/media/spiderman.e1cb7c4d.jpg": "/react-glassmorphism-gaming/static/media/spiderman.e1cb7c4d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d578c0f.js",
+    "static/js/2.884d3875.chunk.js",
+    "static/css/main.a3a0dfd9.chunk.css",
+    "static/js/main.aca2b79e.chunk.js"
+  ]
+}
